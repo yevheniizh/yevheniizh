@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Yevhenii.
 
-Inspired Software Engineer with 6 month of experience in core Javascript and React.
-Willing to keep learning and practicing React SPA development.
+Frontend developer with 1 year of experience in core Javascript and React.
 Has 4 years technical background of industrial hydraulic engineering.
 
 <!--
