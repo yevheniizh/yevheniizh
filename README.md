@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Yevhenii.
 
-Frontend developer with 1 year of experience in core Javascript and React.
-Has 4 years technical background of industrial hydraulic engineering.
+Ambitious frontend developer with 3 years of experience in JS, TS and React.
+Proactive team player, focused on product quality and customer needs.
+Follow frontend best practices and promote them within the team. 👨‍💻
 
 <!--
-**zzzhyrov/zzzhyrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yevheniizh/yevheniizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
