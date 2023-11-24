@@ -4,4 +4,4 @@ Proactive Frontend Developer with 3 years of commercial experience in React deve
 
 Passionate about Three.js visualisation.
 
-Former Design Engineer with a strong background in 3D CAD modeling. 
+Former Design Engineer with a strong background in CAD modeling. 
